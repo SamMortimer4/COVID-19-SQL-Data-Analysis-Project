@@ -1,4 +1,4 @@
-# COVID-19 SQL Data Analysis Portfolio Project
+# COVID-19 SQL Data Analysis Project
 This portfolio project showcases my SQL skills in analyzing COVID-19 data sourced from Our World In Data. Leveraging fundamental SQL features and techniques, I present insightful queries to gain valuable insights into the global pandemic. These queries demonstrate my proficiency in using basic SQL functionalities.
 
 # Key SQL Features Demonstrated:
